@@ -1,0 +1,15 @@
+# Default messages for BuildRankInfo plugin
+rank:
+  help: &m To find out about a specific rank, use the command like /rankinfo <rank>
+  owner: &l Only Joebladon has the owner rank. This is not attainable.
+  admin: &k Get a special invite from Joebladon.
+  mod: &j Pass your TrialMod period and maintain active Moderator duties
+  trialmod: &i PM an application to Joe and/or Frinni using the template found on the forums
+  builder: &h Participate in one of the period building competitions held on the Build server. Only lasts during the duration of the competition.
+  potw: &g Go the extra mile to be an excellent member of the community. When the admins feel you deserve it, you will get it.
+  elite: &f Donate 50 pounds to the Build server
+  donatorplus: &e Donate 20 pounds to the Build server
+  donator: &d Donate 10 pounds to the Build server
+  veteran: &c You need to be at least a Trusted, be a member of the forums for 90 days, have 100 NON-SPAM posts, and 100 votes for the Build server.
+  trusted: &b You need to be at least a Member, be a member of the forums for 10 days, have 10 NON-SPAM posts, and 30 votes for the Build server.
+  member: &a Sign up at forum.citycraft.co.uk, confirm the email and promote yourself using the profile page.

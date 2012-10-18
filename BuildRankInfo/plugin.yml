@@ -5,13 +5,10 @@ version: 1.0
 commands:
    rankinfo:
       description: This is the global command. Does not display information about the specific ranks if the user does not specify the rank they want to learn about.
-      usage: /<command> [rank]
-      permission: buildrankinfo.*
+      usage: /<command> <rank>
+      permission: buildrankinfo.rankinfo
       permission-message: You do not have permission to do this.
 permissions:
-    buildrankinfo.*:
-      description: Gives access to all rankinfo commands
-      default: true
-    buildrankinfo.rankinfo:
+   buildrankinfo.rankinfo:
       description: Core plugin command
       default: true
